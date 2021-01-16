@@ -7,12 +7,13 @@ import {
   Link
 } from "react-router-dom";
 import RouterConfig from './config/router'
+
 function App() {
   return (
     <Router>
     <div className="App">
       
-          
+        
       <Link to='/game'>Go to Game</Link>
       <Link to='/Setting'>setting game</Link>
    
