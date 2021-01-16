@@ -1,0 +1,11 @@
+.Game-content {
+    margin: auto 0;
+    /* padding: 0 90px 90px 40px; */
+    background-color: #282c34;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    width: 50%;
+
+    height: 50%;
+  }

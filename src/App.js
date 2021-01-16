@@ -11,12 +11,11 @@ import RouterConfig from './config/router'
 function App() {
   return (
     <Router>
-    <div className="App">
+    <div >
       
-        
+
       <Link to='/game'>Go to Game</Link>
       <Link to='/Setting'>setting game</Link>
-   
 
       <RouterConfig/>
 

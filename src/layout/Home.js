@@ -1,3 +1,4 @@
+import {} from 'react'
 
 function HomeLayout() {
   return (
@@ -7,5 +8,6 @@ function HomeLayout() {
 
   );
 }
+
 
 export default HomeLayout;
